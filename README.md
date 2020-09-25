@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... front-end dev.
 - 🌱 I’m currently learning ...reactJS Django flask
-- 👯 I’m looking to collaborate on ...school project (h2j2) 
+- 👯 I’m looking to collaborate on ...school project (히투지투) 
 - 🤔 I’m looking for help with ...error...
 - 💬 Ask me about ...wait.... i`m learning..
 - 📫 How to reach me: ...school
