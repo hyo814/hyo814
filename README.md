@@ -12,7 +12,7 @@ The study is currently learning about FE developers with secret code.
 - 📫 E-mail (ggamjige8888@naver.com)
 - 🎁 group: coder, fan, h2j2, secret ,BIO, comento(WEB, SQL)
 
-### 👩‍💻 Let me introduce my own web page! <br>
+## 👩‍💻 Let me introduce my own web page! <br>
 https://www.notion.so/c2253a8929124f56820e3e57719c57f9<br>
 https://blog.naver.com/ggamjige8888
 
