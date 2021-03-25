@@ -1,7 +1,7 @@
 # Hi there 👋
-I communicated with customers through various office programs before I transferred, and I transferred with the idea that consumers want to provide a convenient life.  
-I believe that FE developers have the advantage of communicating and interacting with the customer base the closest since transferring to the company.  
-I think the advantage is that it is easy to understand the customer's mind right after designing various screens.  
+I communicated with customers through various office programs before I transferred, and I transferred with the idea that consumers want to provide a convenient life.
+I believe that FE developers have the advantage of communicating and interacting with the customer base the closest since transferring to the company.
+I think the advantage is that it is easy to understand the customer's mind right after designing various screens.
 For continuous development, I am studying through various school activities such as contest, club, data science, SQL, etc...!  
 The study is currently learning about FE developers with secret code.  
 
