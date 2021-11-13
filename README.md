@@ -5,6 +5,8 @@ I think the advantage is that it is easy to understand the customer's mind right
 For continuous development, I am studying through various school activities such as contest, club, data science, SQL, etc...!  
 The study is currently learning about FE developers with secret code.  
 
+
+
 ## ✨ Here are some ideas to get you started:
 - 👩‍🎓 system management, computer science
 - 🔭 front-end developer
@@ -12,8 +14,13 @@ The study is currently learning about FE developers with secret code.
 - 📫 E-mail (ggamjige8888@naver.com)
 - 🎁 group: coder, fan, h2j2, secret ,BIO, comento(WEB, SQL)
 
+
+
 ## 👩‍💻 Let me introduce my own web page! <br>
 https://www.notion.so/c2253a8929124f56820e3e57719c57f9<br>
-https://blog.naver.com/ggamjige8888
+https://blog.naver.com/ggamjige8888  
+https://programmers.co.kr/pr/ggamjige8888_7934
+
 
 [![hyo814's github stats](https://github-readme-stats.vercel.app/api?username=hyo814)](https://github.com/anuraghazra/github-readme-stats)
+
