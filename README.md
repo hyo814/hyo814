@@ -23,4 +23,3 @@ https://programmers.co.kr/pr/ggamjige8888_7934
 
 
 [![hyo814's github stats](https://github-readme-stats.vercel.app/api?username=hyo814)](https://github.com/anuraghazra/github-readme-stats)
-[![hyo814's github stats](https://github-readme-stats.vercel.app/api?username=stayfolio)](https://github.com/anuraghazra/github-readme-stats)
