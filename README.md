@@ -1,19 +1,15 @@
 # Hi there 👋
-I communicated with customers through various office programs before I transferred, and I transferred with the idea that consumers want to provide a convenient life.
-I believe that FE developers have the advantage of communicating and interacting with the customer base the closest since transferring to the company.
-I think the advantage is that it is easy to understand the customer's mind right after designing various screens.
-For continuous development, I am studying through various school activities such as contest, club, data science, SQL, etc...!  
-The study is currently learning about FE developers with secret code.  
+I'm a front-end developer who focuses on user-centered development. I have gained extensive experience in transitioning from B2B to B2C, which has taught me how to accurately understand and meet user needs and expectations. I have been concentrating on developing various features using artificial intelligence and service industry data, with a priority on user experience.
+
+I contribute to team projects through collaborative communication and agile problem-solving skills, and I aim to improve project quality through efficient code development and continuous feedback. My ultimate goal is to bring the services that users desire into reality, and I strive to continue growing to achieve that goal.
 
 
 
 ## ✨ Here are some ideas to get you started:
 - 👩‍🎓 system management, computer science
 - 🔭 front-end developer
-- 🌱 HTML5,CSS3,JS,reactJS,Django
+- 🌱 JS,TS,Python
 - 📫 E-mail (ggamjige8888@naver.com)
-- 🎁 group: coder, fan, h2j2, secret ,BIO, comento(WEB, SQL)
-
 
 
 ## 👩‍💻 Let me introduce my own web page! <br>
