@@ -13,7 +13,7 @@ I contribute to team projects through collaborative communication and agile prob
 
 
 ## 👩‍💻 Let me introduce my own web page! <br>
-https://www.notion.so/c2253a8929124f56820e3e57719c57f9<br>
+[https://www.notion.so/c2253a8929124f56820e3e57719c57f9<br>](https://hyo814.notion.site/24-01-1c2b63cbf8484e718b746057f1bf856b)
 https://blog.naver.com/ggamjige8888  
 [https://programmers.co.kr/pr/ggamjige8888_7934](https://career.programmers.co.kr/pr/hyo814)
 
