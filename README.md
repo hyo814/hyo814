@@ -15,7 +15,7 @@ I contribute to team projects through collaborative communication and agile prob
 ## 👩‍💻 Let me introduce my own web page! <br>
 https://www.notion.so/c2253a8929124f56820e3e57719c57f9<br>
 https://blog.naver.com/ggamjige8888  
-https://programmers.co.kr/pr/ggamjige8888_7934
+[https://programmers.co.kr/pr/ggamjige8888_7934](https://career.programmers.co.kr/pr/hyo814)
 
 
 [![hyo814's github stats](https://github-readme-stats.vercel.app/api?username=hyo814)](https://github.com/anuraghazra/github-readme-stats)
