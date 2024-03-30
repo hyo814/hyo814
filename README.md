@@ -8,7 +8,8 @@ I contribute to team projects through collaborative communication and agile prob
 ## ✨ Here are some ideas to get you started:
 - 👩‍🎓 system management, computer science
 - 🔭 front-end developer
-- 🌱 JS,TS,Python
+- 🌱 `JavaScript`, `TypeScript`, `NextJS`, `React`, `Recoil`, `ContextAPI`, `React-Query`, `Redux`, `Html`, `CSS`, `Git`
+- 🌱 `MySQL`, `Python`, `Flask`, `Django`, `RubyonRails`, `FireBase`, `Netlify`, `Vercel`, `Slack`, `Notion`
 - 📫 E-mail (ggamjige8888@naver.com)
 
 
