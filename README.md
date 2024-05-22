@@ -16,10 +16,14 @@
 
 
 ## 👩‍💻 Let me introduce my own web page! <br>
-[https://www.notion.so/c2253a8929124f56820e3e57719c57f9<br>](https://hyo814.notion.site/24-01-1c2b63cbf8484e718b746057f1bf856b)
+
+이력서 (피그마) [https://www.figma.com/design/giL4p6di5xLJ1zRlECxbK8/%EC%9E%84%ED%9A%A8%EC%A7%84-%EC%9D%B4%EB%A0%A5%EC%84%9C?t=xlYhR5fgN1HkRFxf-1]
 
 
-[https://blog.naver.com/ggamjige8888]
+이력서 (노션) [https://hyo814.notion.site/24-01-1c2b63cbf8484e718b746057f1bf856b]
+
+
+블로그 [https://blog.naver.com/ggamjige8888]
 
 
 [![hyo814's github stats](https://github-readme-stats.vercel.app/api?username=hyo814)](https://github.com/anuraghazra/github-readme-stats)
