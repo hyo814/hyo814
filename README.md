@@ -21,9 +21,6 @@ B2B/B2G 인공지능 및 B2C 여행 서비스 분야에서 3년간의 경험을 
 이력서 (피그마) [https://www.figma.com/design/giL4p6di5xLJ1zRlECxbK8/%EC%9E%84%ED%9A%A8%EC%A7%84-%EC%9D%B4%EB%A0%A5%EC%84%9C?t=xlYhR5fgN1HkRFxf-1]
 
 
-이력서 (노션) [https://hyo814.notion.site/24-01-1c2b63cbf8484e718b746057f1bf856b]
-
-
 블로그 [https://blog.naver.com/ggamjige8888]
 
 
