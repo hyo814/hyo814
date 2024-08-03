@@ -1,7 +1,10 @@
-👩‍💻 Frontend Developer
+# 👩‍💻 Frontend Developer
 
 
-# ✨ 자기소개
+![프로필 조회수](https://komarev.com/ghpvc/?username=hyo814&style=flat-square)
+
+
+## ✨ 자기소개
 TypeScript와 React, Next 를 사용하여 사용자 경험을 최우선으로 생각하는 프론트엔드 개발자로서, 3년의 경력을 보유하고 있습니다.
 
 B2B/B2G 인공지능 및 B2C 여행 서비스 분야에서 3년간의 경험을 쌓으며, 사용자 요구와 기대를 정확히 이해하고 만족시키는 개발자로 성장했습니다.  
@@ -14,7 +17,7 @@ B2B/B2G 인공지능 및 B2C 여행 서비스 분야에서 3년간의 경험을 
 
 
 
-# ✨ 간단한 소개
+## ✨ 간단한 소개
 - 학과 : 시스템 경영 , 컴퓨터 정보공학부 졸업
 - TripTune 프로젝트 (2024.03 ~ 2024 하반기 목표 )
 - ZEROBASE 5기 (2024.05 ~ 2024.08)
@@ -54,7 +57,21 @@ B2B/B2G 인공지능 및 B2C 여행 서비스 분야에서 3년간의 경험을 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
 
 
-  
 [![hyo814's github stats](https://github-readme-stats.vercel.app/api?username=hyo814)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![가장 많이 사용한 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=hyo814&layout=compact&theme=radical)
+
+
+![커밋 그래프](https://github-readme-streak-stats.herokuapp.com/?user=hyo814&theme=radical)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyo814&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+![커밋 빈도 차트](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyo814&theme=radical)
+
+
+![프로젝트 내역 카드](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hyo814&theme=radical)
 
 
