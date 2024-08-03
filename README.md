@@ -1,5 +1,6 @@
 👩‍💻 Frontend Developer
 
+
 # ✨ 자기소개
 TypeScript와 React, Next 를 사용하여 사용자 경험을 최우선으로 생각하는 프론트엔드 개발자로서, 3년의 경력을 보유하고 있습니다.
 
@@ -22,6 +23,7 @@ B2B/B2G 인공지능 및 B2C 여행 서비스 분야에서 3년간의 경험을 
 - 스위그 협업 3기 (2024.01 ~ 2024.03)
 - 숙박 큐레이터 예약 플랫폼 서비스 개발 S사 (2022.08 ~ 2024.03)
 - 정부 산업 관련 업무 개발 D사 (2021.04 ~ 2022.08)
+
 
 ## 📌 기술
 **🛠 Frontend Develop** <br>
@@ -53,5 +55,8 @@ B2B/B2G 인공지능 및 B2C 여행 서비스 분야에서 3년간의 경험을 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
 
+
   
 [![hyo814's github stats](https://github-readme-stats.vercel.app/api?username=hyo814)](https://github.com/anuraghazra/github-readme-stats)
+
+
