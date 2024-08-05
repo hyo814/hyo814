@@ -6,7 +6,7 @@
 
 ## 💚 자기소개
 
-컴퓨터정보공학부를 졸업하고 3년간 프론트엔드 개발자로 일하면서 TypeScript, React, Next.js를 활용해 사용자 경험을 최우선으로 고려한 웹 애플리케이션을 개발해왔습니다.
+컴퓨터정보공학부를 졸업하고 3년간 프론트엔드 개발자로 일하면서 JavaScript, React, Next.js 등을 활용해 사용자 경험을 최우선으로 고려한 웹 애플리케이션을 개발해왔습니다.
 
 스테이폴리오에서는 글로벌 사용자를 위한 다국어 지원과 프리오더 및 프로모션 페이지 개발을 담당했습니다. 
 i18n 라이브러리와 OPEN API 기반 번역 기능을 통해 다국어 지원을 구현하여 글로벌 시장에서의 접근성을 향상시켰습니다. 
@@ -37,10 +37,10 @@ KAC DEEP SECURITY 프로젝트에서는 웹소켓을 활용한 실시간 비디�
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
 
 
 **🛠 Develop Another** <br>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white" alt="Recoil"/>
 <img src="https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Context API"/>
 <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white" alt="React Query"/>
