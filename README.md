@@ -65,12 +65,11 @@
 ![커밋 그래프](https://github-readme-streak-stats.herokuapp.com/?user=hyo814&theme=radical)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyo814&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![hyo814's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyo814&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/hyo814/github-readme-activity-graph)
 
 
 ![커밋 빈도 차트](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyo814&theme=radical)
 
 
 ![프로젝트 내역 카드](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hyo814&theme=radical)
-
 
