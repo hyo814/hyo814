@@ -11,8 +11,8 @@
 
 ## ✨ 간단한 소개
 - 학과 : 시스템 경영 , 컴퓨터 정보공학부 졸업
-- AWSKRUG 가입
-- 서울 우먼잇츠(IT’s) 가입
+- AWSKRUG 가입 https://www.meetup.com/ko-KR/awskrug/
+- 서울 우먼잇츠(IT’s) 가입 https://swits.notion.site/IT-s-04cb12f4b9aa4d0c87b225fc79102c06
 - 취준 컴퍼니 22기 진행 중
 - TripTune 프로젝트 (2024.05 ~ 2024 하반기 목표 )
 - ZEROBASE 5기 스터디(2024.05 ~ 2024.08)
