@@ -11,7 +11,7 @@
 
 ## ✨ 간단한 소개
 - 학과 : 시스템 경영 , 컴퓨터 정보공학부 졸업
-- AWSKRUG 가입 https://www.meetup.com/ko-KR/awskrug/
+- AWSKRUG 가입 https://www.meetup.com/ko-KR/awskrug
 - 서울 우먼잇츠(IT’s) 가입 https://swits.notion.site/IT-s-04cb12f4b9aa4d0c87b225fc79102c06
 - 취준 컴퍼니 (2024.10 ~ 2024.12)
 - TripTune 프로젝트 (2024.05 ~ 2025.01)
@@ -45,6 +45,12 @@
 <!-- 협업 도구 -->
 - 협업 도구:<br/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
+
+
+<!-- 현재 학습 중인 기술 -->
+- 현재 학습 중인 기술:<br/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/> <img src="https://img.shields.io/badge/Vitest-6E6E6E?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/> <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"/> <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/> <img src="https://img.shields.io/badge/Testing Library-E33332?style=flat-square&logo=testing-library&logoColor=white" alt="Testing Library"/> <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+
 
 [![hyo814's github stats](https://github-readme-stats.vercel.app/api?username=hyo814)](https://github.com/anuraghazra/github-readme-stats)
 
