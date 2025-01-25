@@ -55,10 +55,12 @@ React와 Next.js를 주로 활용하여 다양한 프로젝트를 진행하며, 
 - 협업 도구:<br/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
 
+<!-- 빌드 및 패키지 매니저 -->
+빌드 및 패키지 매니저:<br/> <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"/> <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" alt="Yarn"/> <img src="https://img.shields.io/badge/Yarn_Berry-2C8EBB?style=flat-square&logo=yarn&logoColor=white" alt="Yarn Berry"/>
 
 <!-- 현재 학습 중인 기술 -->
 - 현재 학습 중인 기술:<br/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/> <img src="https://img.shields.io/badge/Vitest-6E6E6E?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/> <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"/> <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/> <img src="https://img.shields.io/badge/Testing Library-E33332?style=flat-square&logo=testing-library&logoColor=white" alt="Testing Library"/> <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/> <img src="https://img.shields.io/badge/Vitest-6E6E6E?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/> <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"/> <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/> <img src="https://img.shields.io/badge/Testing Library-E33332?style=flat-square&logo=testing-library&logoColor=white" alt="Testing Library"/> <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" alt="Webpack"/>
 
 
 [![hyo814's github stats](https://github-readme-stats.vercel.app/api?username=hyo814)](https://github.com/anuraghazra/github-readme-stats)
