@@ -56,7 +56,7 @@ React와 Next.js를 주로 활용하여 다양한 프로젝트를 진행하며, 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
 
 <!-- 빌드 및 패키지 매니저 -->
-빌드 및 패키지 매니저:<br/> <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"/> <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" alt="Yarn"/> <img src="https://img.shields.io/badge/Yarn_Berry-2C8EBB?style=flat-square&logo=yarn&logoColor=white" alt="Yarn Berry"/>
+- 빌드 및 패키지 매니저:<br/> <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"/> <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" alt="Yarn"/> <img src="https://img.shields.io/badge/Yarn_Berry-2C8EBB?style=flat-square&logo=yarn&logoColor=white" alt="Yarn Berry"/>
 
 <!-- 현재 학습 중인 기술 -->
 - 현재 학습 중인 기술:<br/>
