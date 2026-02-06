@@ -103,8 +103,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
 
-![가장 많이 사용한 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=hyo814&layout=compact&theme=radical)
-
 ![커밋 그래프](https://github-readme-streak-stats.herokuapp.com/?user=hyo814&theme=radical)
 
 [![hyo814's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyo814&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/hyo814/github-readme-activity-graph)
