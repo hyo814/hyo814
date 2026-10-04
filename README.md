@@ -14,12 +14,12 @@
 ## 👍 사회 활동
 
 - 학과 : 시스템 경영, 컴퓨터 정보공학부 졸업
-- 원티드 해커톤(https://event.wanted.co.kr/ai-championship/2026) 참여 : https://github.com/hyo814/galmuri-kitchen
-- Triptune, 2인 여행 일정 어플 만들기 : https://github.com/TripTune-Project (2024.07 ~ 2025.01)
+- [원티드 해커톤](https://event.wanted.co.kr/ai-championship/2026) 참여: https://github.com/hyo814/galmuri-kitchen
+- Triptune, 2인 여행 일정 어플 만들기:https://github.com/TripTune-Project (2024.07 ~ 2025.01)
 - 제로베이스 프론트엔드 Pro 5기 수료 (2024.05 ~ 2024.08) · 개발자 면접 합격반 수료 (2024.10)
 - 스위그 협업 프로젝트 3기 / 직짱건강 (2024.01 ~ 2024.03)
-- AWSKRUG 가입 [링크](https://www.meetup.com/ko-KR/awskrug)
-- 서울 우먼잇츠(IT’s) 가입 [링크](https://swits.notion.site/IT-s-04cb12f4b9aa4d0c87b225fc79102c06)
+- [AWSKRUG 가입](https://www.meetup.com/ko-KR/awskrug)
+- [서울 우먼잇츠(IT’s) 가입](https://swits.notion.site/IT-s-04cb12f4b9aa4d0c87b225fc79102c06)
 - 코멘토 / SQL 입문부터 활용까지 - 데이터 분석 보고서 작성과 대시보드 개발 (2021.02 ~ 2021.03)
 - 코멘토 / 실제 현업 WEB 개발자와 함께 SW 포트폴리오 제작까지! (2020.06 ~ 2020.07)
 
