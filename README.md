@@ -25,7 +25,7 @@
 
 ## 👌 Portfolio & Links
 
-- 포트폴리오: [블로그](https://hyo814-blog.vercel.app/) · [About](https://hyo814-blog.vercel.app/about) · [Timeline](https://hyo814-blog.vercel.app/timeline)
+- 포트폴리오: [블로그](https://hyo814-blog.vercel.app/)
 - Notion: [자기소개서](https://hyo814.notion.site/fafc852db326427793fed95a0387a28a)
 - GitHub: [github.com/hyo814](https://github.com/hyo814)
 
